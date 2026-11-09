@@ -6,7 +6,7 @@
 
 ## 🛠 기술 스택 (Tech Stack)
 * **Language:** Java
-* * **Design/Assets:** -
+* **Design/Assets:** -
 
 ## 폴더 구조 (Directory Structure)
 ```text
